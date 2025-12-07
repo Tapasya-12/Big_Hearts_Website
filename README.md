@@ -43,8 +43,8 @@ The website provides easy navigation, dedicated project pages, and a fully funct
 ├── education.html # Education projects
 ├── garden.html # Community gardens
 │
-├── css/ # Stylesheets (if any)
-├── js/ # JavaScript files (if any)
+├── css/ # Stylesheets 
+├── js/ # JavaScript files
 ├── image/ # All images (logo, banners, project visuals)
 ├── video/ # Videos (if included)
 │

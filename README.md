@@ -46,7 +46,7 @@ The website provides easy navigation, dedicated project pages, and a fully funct
 ├── css/ # Stylesheets 
 ├── js/ # JavaScript files
 ├── image/ # All images (logo, banners, project visuals)
-├── video/ # Videos (if included)
+├── video/ # Videos 
 │
 └── README.md # Project documentation
 '''

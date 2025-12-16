@@ -63,8 +63,8 @@ The website provides easy navigation, dedicated project pages, and a fully funct
 
 ### Home Page  
 ![Home Page 1](images/screenshot_home1.png)  
-![Home Page 2](image/screenshot_home2.png)  
-![Home Page 3](image/screenshot_home3.png)  
+![Home Page 2](images/screenshot_home2.png)  
+![Home Page 3](images/screenshot_home3.png)  
 
 
 ### Projects - Military Initiative  

@@ -28,7 +28,7 @@ The website provides easy navigation, dedicated project pages, and a fully funct
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 <pre>
 Big_Hearts_Website/
